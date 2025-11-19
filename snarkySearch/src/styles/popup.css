@@ -1,0 +1,32 @@
+/* filepath: c:\Users\Nawaal\HeavyCodin\meme-extention\search-extension\src\styles\popup.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9fafb;
+    color: #1f2937;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+.button {
+    background-color: #3b82f6;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #2563eb;
+}
